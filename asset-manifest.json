@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/elisamartin/revolut-basket/static/css/main.e813484a.css",
+    "main.js": "/elisamartin/revolut-basket/static/js/main.eb015cc1.js",
+    "index.html": "/elisamartin/revolut-basket/index.html",
+    "main.e813484a.css.map": "/elisamartin/revolut-basket/static/css/main.e813484a.css.map",
+    "main.eb015cc1.js.map": "/elisamartin/revolut-basket/static/js/main.eb015cc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e813484a.css",
+    "static/js/main.eb015cc1.js"
+  ]
+}
